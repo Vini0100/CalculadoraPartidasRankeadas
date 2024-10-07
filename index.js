@@ -34,7 +34,7 @@ function calculaPartidasRanqueadas() {
   const nivel = verificaNivel(saldoVitorias);
 
   console.log(
-    `O Herói tem de saldo de ${saldoVitorias} está no nível de ${nivel}`
+    `O Herói tem o saldo de ${saldoVitorias} e está no nível de ${nivel}`
   );
 }
 
